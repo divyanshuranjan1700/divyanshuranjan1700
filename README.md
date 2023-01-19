@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divyanshuranjan1700
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Cyber Security and Android App Development
+- 💞️ I’m looking to collaborate on ...Cyber Security and Android App Development
 - 📫 How to reach me ...
 
 <!---
