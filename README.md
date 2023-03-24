@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @divyanshuranjan1700
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cyber Security and Android App Development
+- 👋 Hi, I’m Divyanshu Ranjan
+- 👀 I’m interested in Cyber Security and Flutter App Development
+- 🌱 I’m currently learning Cyber Security and Flutter App Development
 - 💞️ I’m looking to collaborate on ...Cyber Security and Android App Development
 - 📫 How to reach me ...
 
